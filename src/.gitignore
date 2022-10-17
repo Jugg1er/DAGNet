@@ -1,0 +1,4 @@
+tb_logs/
+results/
+3rdparty/
+*.pyc
